@@ -1,0 +1,10 @@
+{
+  "name": "passGen",
+  "version": "1.0.0",
+  "description": "easy, safe password genartor",
+  "main": "index.html",
+  "repository": "https://github.com/rafalgiemza/passGen",
+  "author": "Giemza Rafał",
+  "license": "MIT",
+  "private": false
+}
